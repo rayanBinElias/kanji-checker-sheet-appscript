@@ -11,7 +11,7 @@ This is an app script code that automate Ctrl-Find a n3 kanji list to your exist
 # Demo
 
 <div align="center">
-<img width="60%" src="https://github.com/rayanBinElias/kanji-checker-sheet-appscript/blob/main/assets/App-Script-Page.png"/>
+<img width="60%" src="https://github.com/rayanBinElias/kanji-checker-sheet-appscript/blob/main/assets/Demo.gif"/>
 </div>
 
 # Getting Started
