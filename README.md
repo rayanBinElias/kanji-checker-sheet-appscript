@@ -11,7 +11,7 @@ This is an app script code that automate Ctrl-Find a n3 kanji list to your exist
 # Demo
 
 <div align="center">
-<img width="60%" src="https://github.com/realve/training/blob/main/https://github.com/rayanBinElias/kanji-checker-sheet-appscript/assets/Demo.gif"/>
+<img width="60%" src="https://github.com/rayanBinElias/kanji-checker-sheet-appscript/blob/main/assets/App-Script-Page.png"/>
 </div>
 
 # Getting Started
@@ -20,7 +20,7 @@ This is an app script code that automate Ctrl-Find a n3 kanji list to your exist
 
 - Go to your google spread sheet and click Extenstion > Apps Script
 <div align="center">
-<img width="60%" src="https://github.com/realve/training/blob/main/https://github.com/rayanBinElias/kanji-checker-sheet-appscript/assets/My-Kanji-Sheet.png"/>
+<img width="60%" src="https://github.com/rayanBinElias/kanji-checker-sheet-appscript/blob/main/assets/My-Kanji-Sheet.png"/>
 </div>
 
 ## Step 2
@@ -29,13 +29,13 @@ This is an app script code that automate Ctrl-Find a n3 kanji list to your exist
   [https://jlptstudy.net/N3/?kanji-list](https://jlptstudy.net/N3/?kanji-list)
 
 <div align="center">
-<img width="60%" src="https://github.com/realve/training/blob/main/https://github.com/rayanBinElias/kanji-checker-sheet-appscript/assets/n3-kanji-list.png"/>
+<img width="60%" src="https://github.com/rayanBinElias/kanji-checker-sheet-appscript/blob/main/assets/n3-kanji-list.png"/>
 </div>
 
 Checker Sheet
 
 <div align="center">
-<img width="60%" src="https://github.com/realve/training/blob/main/https://github.com/rayanBinElias/kanji-checker-sheet-appscript/assets/N3-Kanji-list checker.png"/>
+<img width="60%" src="https://github.com/rayanBinElias/kanji-checker-sheet-appscript/blob/main/assets/N3-Kanji-list%20checker.png"/>
 </div>
 
 ## Step 3
@@ -43,5 +43,5 @@ Checker Sheet
 - After you are redirected to Apps Script page, copy the code in Code.gs file to your App script page.
 - Reminder: You should change the code sheet name to "Kanji" then your kanji check list to "Checker" or you can change Code.gs code
 <div align="center">
-<img width="60%" src="https://github.com/realve/training/blob/main/https://github.com/rayanBinElias/kanji-checker-sheet-appscript/assets/App-Script-Page.png"/>
+<img width="60%" src="https://github.com/rayanBinElias/kanji-checker-sheet-appscript/blob/main/assets/App-Script-Page.png"/>
 </div>
